@@ -1,0 +1,1 @@
+avrdude -C avrdude.conf.arduino  -c arduino -P /dev/tty.usbmodem141401 -p m328p -U flash:w:build/JTAG2UPDI.hex:i

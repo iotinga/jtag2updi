@@ -2,7 +2,7 @@
 
 # avr-gcc++ path
 # Replace by location of your avr-gcc compiler if different
-BINPATH="/usr/bin"
+BINPATH="/usr/local/bin"
 INCPATH="./source"
 
 SOURCEPATH="./source"
